@@ -1,0 +1,10 @@
+# 指定程序名为service-feign，端口号为8765，服务注册地址为http://localhost:8761/eureka/
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8765
+spring:
+  application:
+    name: service-feign

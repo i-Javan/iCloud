@@ -9,6 +9,24 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <description>
+        ribbon是一个负载均衡客户端，可以很好的控制htt和tcp的一些行为。Feign默认集成了ribbon。
+
+        ribbon 已经默认实现了这些配置bean：
+
+        IClientConfig ribbonClientConfig: DefaultClientConfigImpl
+
+        IRule ribbonRule: ZoneAvoidanceRule
+
+        IPing ribbonPing: NoOpPing
+
+        ServerList ribbonServerList: ConfigurationBasedServerList
+
+        ServerListFilter ribbonServerListFilter: ZonePreferenceServerListFilter
+
+        ILoadBalancer ribbonLoadBalancer: ZoneAwareLoadBalancer
+    </description>
+
     <artifactId>iCloud-RibbonService</artifactId>
 
     <dependencies>
@@ -24,17 +42,10 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
         </dependency>
+        <!-- 添加断路器（Hystrix） -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-netflix-eureka-client</artifactId>
-            <version>1.3.0.RC1</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-commons</artifactId>
-            <version>1.2.0.RC1</version>
-            <scope>compile</scope>
+            <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
         </dependency>
     </dependencies>
 

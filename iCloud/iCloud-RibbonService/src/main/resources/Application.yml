@@ -1,3 +1,4 @@
+# 在工程的配置文件指定服务的注册中心地址为http://localhost:8761/eureka/，程序名称为 service-ribbon，程序端口为8764
 eureka:
   client:
     serviceUrl:
@@ -6,4 +7,8 @@ server:
   port: 8764
 spring:
   application:
-    name: iCloud-RibbonService
+    name: service-ribbon
+
+# Feign是自带断路器的，在D版本的Spring Cloud之后，它没有默认打开。需要在配置文件中配置打开它，在配置文件加以下代码：
+
+# feign.hystrix.enabled=true

@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-EurekaClient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-Feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-RibbonService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-Zuul" charset="UTF-8" />
   </component>
 </project>
