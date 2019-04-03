@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="iCloud-RibbonService" />
         <module name="iCloud-Feign" />
-        <module name="iCloud-Zuul" />
+        <module name="iCloud-ConfigClinet" />
         <module name="iCloud-EurekaClient" />
+        <module name="iCloud-Zuul" />
         <module name="iCloud-EurekaServer" />
+        <module name="iCloud-ConfigServer" />
+        <module name="iCloud-RibbonService" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="iCloud-ConfigClinet" options="-parameters" />
+      <module name="iCloud-ConfigServer" options="-parameters" />
       <module name="iCloud-EurekaClient" options="-parameters" />
       <module name="iCloud-EurekaServer" options="-parameters" />
       <module name="iCloud-Feign" options="-parameters" />

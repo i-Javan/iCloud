@@ -19,6 +19,8 @@
         <module>iCloud-RibbonService</module>
         <module>iCloud-Feign</module>
         <module>iCloud-Zuul</module>
+        <module>iCloud-ConfigServer</module>
+        <module>iCloud-ConfigClinet</module>
     </modules>
 
     <parent>
