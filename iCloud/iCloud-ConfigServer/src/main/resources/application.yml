@@ -1,3 +1,16 @@
+# /{application}/{profile}[/{label}]
+# /{application}-{profile}.yml
+# /{label}/{application}-{profile}.yml
+# /{application}-{profile}.properties
+# /{label}/{application}-{profile}.properties
+
+# {label}对应git上不同的分支，默认为master。
+# spring.application.name：对应前配置文件中的{application}部分
+# spring.cloud.config.profile：对应前配置文件中的{profile}部分
+# spring.cloud.config.label：对应前配置文件的git分支
+# spring.cloud.config.uri：配置中心的地址
+# http://localhost:8888/config-client/dev
+
 server:
   port: 8888
 spring:
@@ -9,7 +22,7 @@ spring:
         git:
 #         uri: https://github.com/forezp/SpringcloudConfig/   # 配置git仓库的地址
           uri: https://github.com/i-Javan/iCloud
-          search-paths: iCloud/respo                                  # git仓库地址下的相对地址，可以配置多个，用,分割。
-          label: master
+          search-paths: iCloud/respo                           # git仓库地址下的相对地址，可以配置多个，用,分割。
+#         label: master
           username:                                            # git仓库的账号
           password:                                            # git仓库的密码
