@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c717bba-b960-4daf-b8f2-18c295c14014" name="Default Changelist" comment="add by javan 提交配置文件测试使用 20190444">
-      <change afterPath="$PROJECT_DIR$/iCloud-ConfigClient-Colony/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/java/com/iCloud/ConfigClientColonyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iCloud-ConfigServer-Colony/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/java/com/iCloud/ConfigServerColonyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigClient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iCloud-EurekaServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-EurekaServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c717bba-b960-4daf-b8f2-18c295c14014" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/iCloud-EurekaServer/target/" />
@@ -78,7 +63,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-59">
+            <state relative-caret-position="190">
               <caret line="10" column="12" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
@@ -381,7 +366,7 @@
       <updated>1554253862800</updated>
       <workItem from="1554253866292" duration="1770000" />
       <workItem from="1554255884119" duration="2568000" />
-      <workItem from="1554346068976" duration="9491000" />
+      <workItem from="1554346068976" duration="9601000" />
     </task>
     <task id="LOCAL-00001" summary="上班咯！🙃">
       <created>1554254101016</created>
@@ -418,23 +403,30 @@
       <option name="project" value="LOCAL" />
       <updated>1554359037368</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add by javan 提交Config纳入Eureka管理 20190444">
+      <created>1554363629312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554363629312</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13830000" />
+    <option name="totallyTimeSpent" value="13940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.5283286" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.5283286" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -462,7 +454,8 @@
     <MESSAGE value="add by javan 读取git配置信息 20190444" />
     <MESSAGE value="add by javan 读取Git端项目目录下的配置文件 20190444" />
     <MESSAGE value="add by javan 提交配置文件测试使用 20190444" />
-    <option name="LAST_COMMIT_MESSAGE" value="add by javan 提交配置文件测试使用 20190444" />
+    <MESSAGE value="add by javan 提交Config纳入Eureka管理 20190444" />
+    <option name="LAST_COMMIT_MESSAGE" value="add by javan 提交Config纳入Eureka管理 20190444" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/iCloud-EurekaClient/src/main/java/com/iCloud/Application.java" />
@@ -710,7 +703,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
+        <state relative-caret-position="190">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>

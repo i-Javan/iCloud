@@ -1,0 +1,28 @@
+# /{application}/{profile}[/{label}]
+# /{application}-{profile}.yml
+# /{label}/{application}-{profile}.yml
+# /{application}-{profile}.properties
+# /{label}/{application}-{profile}.properties
+
+# {label}��Ӧgit�ϲ�ͬ�ķ�֧��Ĭ��Ϊmaster��
+# spring.application.name����Ӧǰ�����ļ��е�{application}����
+# spring.cloud.config.profile����Ӧǰ�����ļ��е�{profile}����
+# spring.cloud.config.label����Ӧǰ�����ļ���git��֧
+# spring.cloud.config.uri���������ĵĵ�ַ
+# http://localhost:8888/config-client/dev
+
+server:
+  port: 8888
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+#         uri: https://github.com/forezp/SpringcloudConfig/   # ����git�ֿ�ĵ�ַ
+          uri: https://github.com/i-Javan/iCloud
+          search-paths: iCloud/respo                           # git�ֿ��ַ�µ���Ե�ַ���������ö������,�ָ
+#         label: master
+          username:                                            # git�ֿ���˺�
+          password:                                            # git�ֿ������
