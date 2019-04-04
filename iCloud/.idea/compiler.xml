@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="iCloud-Feign" />
+        <module name="iCloudConfigClinet" />
         <module name="iCloud-ConfigClinet" />
         <module name="iCloud-EurekaClient" />
         <module name="iCloud-Zuul" />
@@ -25,6 +26,7 @@
       <module name="iCloud-Feign" options="-parameters" />
       <module name="iCloud-RibbonService" options="-parameters" />
       <module name="iCloud-Zuul" options="-parameters" />
+      <module name="iCloudConfigClinet" options="-parameters" />
     </option>
   </component>
 </project>

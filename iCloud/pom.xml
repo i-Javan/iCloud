@@ -20,7 +20,7 @@
         <module>iCloud-Feign</module>
         <module>iCloud-Zuul</module>
         <module>iCloud-ConfigServer</module>
-        <module>iCloud-ConfigClinet</module>
+        <module>iCloud-ConfigClient</module>
     </modules>
 
     <parent>
