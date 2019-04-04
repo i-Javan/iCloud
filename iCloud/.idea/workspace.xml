@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c717bba-b960-4daf-b8f2-18c295c14014" name="Default Changelist" comment="">
+    <list default="true" id="4c717bba-b960-4daf-b8f2-18c295c14014" name="Default Changelist" comment="add by javan 提交配置文件测试使用 20190444">
+      <change afterPath="$PROJECT_DIR$/iCloud-ConfigClient-Colony/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/java/com/iCloud/ConfigClientColonyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-ConfigServer-Colony/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/java/com/iCloud/ConfigServerColonyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigClient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/ConfigClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/ConfigClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigServer/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-ConfigServer/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/respo/config-client-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/respo/config-client-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-EurekaServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-EurekaServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,11 +27,27 @@
     <ignored path="$PROJECT_DIR$/iCloud-ConfigServer/target/" />
     <ignored path="$PROJECT_DIR$/iCloud-ConfigClinet/target/" />
     <ignored path="$PROJECT_DIR$/iCloud-ConfigClient/target/" />
+    <ignored path="$PROJECT_DIR$/iCloud-ConfigServer-Colony/target/" />
+    <ignored path="$PROJECT_DIR$/iCloud-ConfigClient-Colony/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -33,23 +55,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iCloud-EurekaClient/src/main/java/com/iCloud/EurekaClientApplication.java">
+        <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="16" />
-              <folding>
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#672#673#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/java/com/iCloud/ConfigServerColonyApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="133">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-59">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -57,30 +87,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/respo/config-client-dev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            <state relative-caret-position="281">
+              <caret line="29" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="29" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java">
+        <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient-Colony/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="181">
+              <caret line="28" column="92" selection-start-line="28" selection-start-column="92" selection-end-line="28" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/java/com/iCloud/ConfigClientColonyApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,11 +121,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/ConfigClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="108">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,39 +134,23 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="475">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iCloud-RibbonService/src/main/java/com/iCloud/RibbonApplication.java">
+        <entry file="file://$PROJECT_DIR$/iCloud-EurekaServer/src/main/resources/Application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-              <folding>
-                <element signature="e#968#969#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="19">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -150,6 +167,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>spring-cloud-starter-config</find>
+      <find>spring-cloud-config-server</find>
+      <find>spring-cloud-starter-netflix- eureka-server</find>
+      <find>Eureka</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,16 +190,23 @@
         <option value="$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.propertird" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/iCloud-ConfigServer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/iCloud-ConfigServer/pom.xml" />
-        <option value="$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/iCloud-ConfigServer/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/config/controller/ConfigController.java" />
         <option value="$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/controller/ConfigController.java" />
-        <option value="$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/ConfigClientApplication.java" />
         <option value="$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/iCloud-ConfigClient/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/ConfigClientApplication.java" />
         <option value="$PROJECT_DIR$/respo/config-client-dev.properties" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigClient/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigServer-Colony/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/java/com/iCloud/ConfigServerColonyApplication.java" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/java/com/iCloud/ConfigClientColonyApplication.java" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigClient-Colony/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -188,11 +215,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="iCloud-ConfigServer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="iCloud-ConfigClient-Colony" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="iCloud-ConfigServer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="iCloud-ConfigClient-Colony" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -200,9 +227,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="40" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="131" />
+    <option name="y" value="92" />
+    <option name="width" value="1920" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -222,92 +250,6 @@
             <path>
               <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigClient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigClient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigClient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigClient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigClient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigClient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigServer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.iCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="iCloud-ConfigServer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iCloud" type="462c0819:PsiDirectoryNode" />
               <item name="respo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -323,8 +265,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/respo" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.1525" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -344,10 +286,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConfigClientApplication">
+  <component name="RunManager" selected="Application.ConfigClientColonyApplication">
     <configuration name="ConfigClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.iCloud.ConfigClientApplication" />
-      <module name="iCloudConfigClinet" />
+      <module name="iCloud-ConfigClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iCloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientColonyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iCloud.ConfigClientColonyApplication" />
+      <module name="iCloud-ConfigClient-Colony" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iCloud.*" />
@@ -371,9 +326,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FeignApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iCloud.FeignApplication" />
-      <module name="iCloud-Feign" />
+    <configuration name="ConfigServerColonyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iCloud.ConfigServerColonyApplication" />
+      <module name="iCloud-ConfigServer-Colony" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iCloud.*" />
@@ -384,22 +339,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RibbonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iCloud.RibbonApplication" />
-      <module name="iCloud-RibbonService" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.iCloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iCloud.ZuulApplication" />
-      <module name="iCloud-Zuul" />
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iCloud.EurekaServerApplication" />
+      <module name="iCloud-EurekaServer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iCloud.*" />
@@ -411,19 +353,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FeignApplication" />
-      <item itemvalue="Application.RibbonApplication" />
-      <item itemvalue="Application.ZuulApplication" />
       <item itemvalue="Application.ConfigServerApplication" />
       <item itemvalue="Application.ConfigClientApplication" />
+      <item itemvalue="Application.EurekaServerApplication" />
+      <item itemvalue="Application.ConfigServerColonyApplication" />
+      <item itemvalue="Application.ConfigClientColonyApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConfigClientColonyApplication" />
         <item itemvalue="Application.ConfigClientApplication" />
+        <item itemvalue="Application.ConfigServerColonyApplication" />
+        <item itemvalue="Application.EurekaServerApplication" />
         <item itemvalue="Application.ConfigServerApplication" />
-        <item itemvalue="Application.ZuulApplication" />
-        <item itemvalue="Application.RibbonApplication" />
-        <item itemvalue="Application.FeignApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +381,7 @@
       <updated>1554253862800</updated>
       <workItem from="1554253866292" duration="1770000" />
       <workItem from="1554255884119" duration="2568000" />
-      <workItem from="1554346068976" duration="4690000" />
+      <workItem from="1554346068976" duration="9491000" />
     </task>
     <task id="LOCAL-00001" summary="上班咯！🙃">
       <created>1554254101016</created>
@@ -462,24 +404,37 @@
       <option name="project" value="LOCAL" />
       <updated>1554347580915</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add by javan 提交配置文件测试使用 20190444">
+      <created>1554358797872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554358797872</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add by javan 提交配置文件测试使用 20190444">
+      <created>1554359037368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554359037368</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9029000" />
+    <option name="totallyTimeSpent" value="13830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32577905" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.5283286" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,14 +444,14 @@
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50067025" side_tool="true" weight="0.42917848" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.3297587" />
       <window_info anchor="right" id="Bean Validation" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -506,7 +461,8 @@
     <MESSAGE value="上班咯！" />
     <MESSAGE value="add by javan 读取git配置信息 20190444" />
     <MESSAGE value="add by javan 读取Git端项目目录下的配置文件 20190444" />
-    <option name="LAST_COMMIT_MESSAGE" value="add by javan 读取Git端项目目录下的配置文件 20190444" />
+    <MESSAGE value="add by javan 提交配置文件测试使用 20190444" />
+    <option name="LAST_COMMIT_MESSAGE" value="add by javan 提交配置文件测试使用 20190444" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/iCloud-EurekaClient/src/main/java/com/iCloud/Application.java" />
@@ -573,28 +529,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iCloud-EurekaServer/src/main/java/com/iCloud/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/respo/neo-config-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -619,20 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/controller/ConfigController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -647,40 +571,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.0.RELEASE/spring-cloud-context-2.0.0.RELEASE-sources.jar!/org/springframework/cloud/context/config/annotation/RefreshScope.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/ConfigClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="113">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -688,6 +582,136 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-EurekaServer/src/main/java/com/iCloud/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/src/main/java/com.iCloud/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-EurekaServer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-EurekaServer/src/main/resources/Application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="29" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/java/com/iCloud/ConfigServerColonyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient-Colony/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="28" column="92" selection-start-line="28" selection-start-column="92" selection-end-line="28" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/src/main/java/com/iCloud/ConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/java/com/iCloud/ConfigClientColonyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -741,7 +765,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>iCloud-EurekaClient</last-edited>
+          <last-edited>iCloud-ConfigClient</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

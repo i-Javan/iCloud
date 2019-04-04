@@ -21,6 +21,8 @@
         <module>iCloud-Zuul</module>
         <module>iCloud-ConfigServer</module>
         <module>iCloud-ConfigClient</module>
+        <module>iCloud-ConfigServer-Colony</module>
+        <module>iCloud-ConfigClient-Colony</module>
     </modules>
 
     <parent>
