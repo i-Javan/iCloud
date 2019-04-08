@@ -7,14 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="iCloud-Feign" />
-        <module name="iCloud-ConfigClient" />
         <module name="iCloud-ConfigServer-Colony" />
         <module name="iCloud-ConfigClient-Colony" />
-        <module name="iCloud-EurekaClient" />
+        <module name="iCloud-ConfigClinet" />
         <module name="iCloud-Zuul" />
-        <module name="iCloud-EurekaServer" />
         <module name="iCloud-ConfigServer" />
+        <module name="iCloud-EurekaServer" />
         <module name="iCloud-RibbonService" />
+        <module name="iCloud-EurekaClient" />
+        <module name="iCloud-ConfigClient" />
       </profile>
     </annotationProcessing>
   </component>
@@ -22,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="iCloud-ConfigClient" options="-parameters" />
       <module name="iCloud-ConfigClient-Colony" options="-parameters" />
+      <module name="iCloud-ConfigClinet" options="-parameters" />
       <module name="iCloud-ConfigServer" options="-parameters" />
       <module name="iCloud-ConfigServer-Colony" options="-parameters" />
       <module name="iCloud-EurekaClient" options="-parameters" />
