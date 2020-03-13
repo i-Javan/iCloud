@@ -4,12 +4,21 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-ConfigClient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-ConfigClient-Colony" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-ConfigClient-Colony/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-ConfigClient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-ConfigServer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-ConfigServer-Colony/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-ConfigServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-EurekaClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-EurekaClient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-EurekaServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-Feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-Feign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-RibbonService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-RibbonService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-Zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-Zuul/src/main/java" charset="UTF-8" />
   </component>
 </project>
