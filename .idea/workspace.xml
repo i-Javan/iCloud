@@ -2,10 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c717bba-b960-4daf-b8f2-18c295c14014" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Feign02-Account/src/main/java/com/iCloud/feign/Service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Feign02-Account/src/main/java/com/iCloud/feign/Service/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Feign02-Account/src/main/java/com/iCloud/feign/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Feign02-Account/src/main/java/com/iCloud/feign/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Feign02-Account/src/main/java/com/iCloud/feign/feign/OrderApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Feign02-Account/src/main/resources/mapper/AccountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Nacos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Nacos/src/main/java/com/iCloud/NacosServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iCloud-Nacos/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient-Colony/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient-Colony/target/classes/com/iCloud/ConfigClientColonyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigClient/target/classes/com/iCloud/ConfigClientApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer-Colony/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer-Colony/target/classes/com/iCloud/ConfigServerColonyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer/target/classes/META-INF/iCloud-ConfigServer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-ConfigServer/target/classes/com/iCloud/ConfigServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-Feign/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-Feign/src/main/java/com/iCloud/FeignApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-Feign/src/main/java/com/iCloud/feign/Controller/FeignController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-Feign/src/main/java/com/iCloud/feign/Service/FeignService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-Feign/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-Feign/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-RibbonService/target/classes/Application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-RibbonService/target/classes/META-INF/iCloud-RibbonService.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-Zuul/target/classes/Application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +63,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>spring-cloud-starter-config</find>
-      <find>spring-cloud-config-server</find>
-      <find>spring-cloud-starter-netflix- eureka-server</find>
-      <find>Eureka</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -77,31 +100,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gpdi/fabric-brack" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/iCloud-Feign02-Account/src/main/java/com/iCloud/feign/Service" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1525" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.33564013" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.iCloud.feign.feign" />
+      <recent name="com.iCloud.feign.dao" />
+      <recent name="com.iCloud.feign.entity" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\work space\iCloud\iCloud\respo" />
+      <recent name="E:\CODE\git\iCloud\iCloud-Feign02-Account\src\main\java\com\iCloud\feign\Service" />
+      <recent name="E:\CODE\git\iCloud\iCloud-Feign02-Account\src\main\resources\mapper" />
+      <recent name="E:\CODE\git\iCloud\iCloud-Feign\src\main\java\com\iCloud\feign\feign" />
+      <recent name="E:\CODE\git\iCloud\iCloud-Feign01\src\main\resources" />
+      <recent name="E:\CODE\git\iCloud\iCloud-Feign\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EurekaServerApplication">
-    <configuration name="ConfigClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iCloud.ConfigClientApplication" />
-      <module name="iCloud-ConfigClient" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.iCloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
     <configuration name="ConfigClientColonyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.iCloud.ConfigClientColonyApplication" />
       <module name="iCloud-ConfigClient-Colony" />
@@ -196,8 +221,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FeignApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="iCloud-Feign01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iCloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iCloud.FeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="iCloud-Feign" />
+      <module name="iCloud-Feign-Order" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.iCloud.FeignApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,7 +257,6 @@
     </configuration>
     <list>
       <item itemvalue="Application.ConfigServerApplication" />
-      <item itemvalue="Application.ConfigClientApplication" />
       <item itemvalue="Application.EurekaServerApplication" />
       <item itemvalue="Application.ConfigServerColonyApplication" />
       <item itemvalue="Application.ConfigClientColonyApplication" />
@@ -232,14 +269,15 @@
       <item itemvalue="Spring Boot.EurekaClientApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.FeignApplication (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.FeignApplication (1)" />
         <item itemvalue="Application.EurekaServerApplication" />
         <item itemvalue="Application.ConfigClientColonyApplication" />
         <item itemvalue="Application.ConfigServerColonyApplication" />
         <item itemvalue="Application.ConfigServerApplication" />
-        <item itemvalue="Application.ConfigClientApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +312,11 @@
       <workItem from="1554691975007" duration="11000" />
       <workItem from="1554692844931" duration="3067000" />
       <workItem from="1583981829903" duration="37000" />
-      <workItem from="1584088669060" duration="778000" />
+      <workItem from="1584088669060" duration="1728000" />
+      <workItem from="1584161706985" duration="2169000" />
+      <workItem from="1584251061346" duration="599000" />
+      <workItem from="1584326268097" duration="813000" />
+      <workItem from="1584352077856" duration="9631000" />
     </task>
     <task id="LOCAL-00001" summary="上班咯！🙃">
       <created>1554254101016</created>
@@ -318,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554363629312</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add by javan 提交Config纳入Eureka管理 20200313">
+      <created>1584089552038</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584089552038</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,81 +382,123 @@
     <MESSAGE value="add by javan 读取Git端项目目录下的配置文件 20190444" />
     <MESSAGE value="add by javan 提交配置文件测试使用 20190444" />
     <MESSAGE value="add by javan 提交Config纳入Eureka管理 20190444" />
-    <option name="LAST_COMMIT_MESSAGE" value="add by javan 提交Config纳入Eureka管理 20190444" />
+    <MESSAGE value="add by javan 提交Config纳入Eureka管理 20200313" />
+    <option name="LAST_COMMIT_MESSAGE" value="add by javan 提交Config纳入Eureka管理 20200313" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1718" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1584370558634">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1718" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1584370558634" />
     <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584088717879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584088717879" />
-    <state x="916" y="228" key="FileChooserDialogImpl" timestamp="1584088692447">
+    <state x="930" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584371692611">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="930" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584371692611" />
+    <state x="1637" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584371136360">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1637" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584371136360" />
+    <state x="365" y="6" key="CommitChangelistDialog2" timestamp="1584089551573">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="916" y="228" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584088692447" />
-    <state x="1526" y="288" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1583981865265" />
-    <state width="1493" height="331" key="GridCell.Tab.0.bottom" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="365" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584089551573" />
+    <state x="1526" y="288" key="FileChooserDialogImpl" timestamp="1584370802278">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.0.center" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="916" y="228" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584091502773" />
+    <state x="1526" y="288" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1584370802278" />
+    <state width="1291" height="221" key="GridCell.Tab.0.bottom" timestamp="1584363758851">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.0.left" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584091508756" />
+    <state width="1291" height="221" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758851" />
+    <state width="1291" height="221" key="GridCell.Tab.0.center" timestamp="1584363758851">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.0.right" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="307" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584091508756" />
+    <state width="1291" height="221" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758851" />
+    <state width="1291" height="221" key="GridCell.Tab.0.left" timestamp="1584363758851">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.1.bottom" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="307" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584091508756" />
+    <state width="1291" height="221" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758851" />
+    <state width="1291" height="221" key="GridCell.Tab.0.right" timestamp="1584363758851">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.1.center" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="307" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584091508756" />
+    <state width="1291" height="221" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758851" />
+    <state width="1291" height="221" key="GridCell.Tab.1.bottom" timestamp="1584363758852">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.1.left" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="307" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584091508757" />
+    <state width="1291" height="221" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758852" />
+    <state width="1291" height="221" key="GridCell.Tab.1.center" timestamp="1584363758851">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.1.right" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="307" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584091508757" />
+    <state width="1291" height="221" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758851" />
+    <state width="1291" height="221" key="GridCell.Tab.1.left" timestamp="1584363758851">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.2.bottom" timestamp="1584089382432">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="307" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584091508757" />
+    <state width="1291" height="221" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758851" />
+    <state width="1291" height="221" key="GridCell.Tab.1.right" timestamp="1584363758851">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584089382432" />
-    <state width="1493" height="331" key="GridCell.Tab.2.center" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="307" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584091508757" />
+    <state width="1291" height="221" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758851" />
+    <state width="1291" height="221" key="GridCell.Tab.2.bottom" timestamp="1584363758852">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.2.left" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="331" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584091507737" />
+    <state width="1291" height="221" key="GridCell.Tab.2.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758852" />
+    <state width="1291" height="221" key="GridCell.Tab.2.center" timestamp="1584363758852">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state width="1493" height="331" key="GridCell.Tab.2.right" timestamp="1584089382431">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="331" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1584091507737" />
+    <state width="1291" height="221" key="GridCell.Tab.2.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758852" />
+    <state width="1291" height="221" key="GridCell.Tab.2.left" timestamp="1584363758852">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1493" height="331" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1584089382431" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1584089404059">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="331" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1584091507736" />
+    <state width="1291" height="221" key="GridCell.Tab.2.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758852" />
+    <state width="1291" height="221" key="GridCell.Tab.2.right" timestamp="1584363758852">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1584091507737" />
+    <state width="1291" height="221" key="GridCell.Tab.2.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758852" />
+    <state x="450" y="0" key="SettingsEditor" timestamp="1584371731698">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584089404059" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584089457571">
+    <state x="450" y="0" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1584371731698" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584089678466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584089457571" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584089678466" />
     <state x="1389" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1583981830174">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1389" y="339" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1583981830174" />
+    <state x="956" y="253" width="647" height="534" key="find.popup" timestamp="1584363087169">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="956" y="253" width="647" height="534" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1584363087169" />
     <state x="490" y="204" key="git4idea.merge.GitPullDialog" timestamp="1584089483416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1584089483416" />
+    <state x="1123" y="148" key="new project wizard" timestamp="1584352276984">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1123" y="148" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1584352276984" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584370970061">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1584370970061" />
   </component>
 </project>

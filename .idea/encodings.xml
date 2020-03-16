@@ -14,8 +14,10 @@
     <file url="file://$PROJECT_DIR$/iCloud-EurekaClient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-EurekaServer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-EurekaServer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/iCloud-Feign" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/iCloud-Feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-Feign-Order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-Feign01-Storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-Feign02-Account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iCloud-Nacos/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-RibbonService" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-RibbonService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iCloud-Zuul" charset="UTF-8" />

@@ -8,6 +8,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-Feign01/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-Feign01-Storage/pom.xml" />
+        <option value="$PROJECT_DIR$/iCloud-Feign02-Account/pom.xml" />
       </list>
     </option>
   </component>

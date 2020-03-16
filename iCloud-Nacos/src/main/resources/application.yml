@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        register-enabled: true
+        server-addr: 127.0.0.1:8848 # nancos地址
+  application:
+    name: gateWay
+server:
+  port: 8081
