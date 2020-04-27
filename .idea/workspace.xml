@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c717bba-b960-4daf-b8f2-18c295c14014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -196,7 +195,7 @@
       </method>
     </configuration>
     <configuration name="FeignApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="iCloud-Feign01" />
+      <module name="iCloud-Feign02-Account" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iCloud.*" />
@@ -280,6 +279,7 @@
       <workItem from="1584326268097" duration="813000" />
       <workItem from="1584352077856" duration="9631000" />
       <workItem from="1587889834123" duration="1831000" />
+      <workItem from="1587947527259" duration="222000" />
     </task>
     <task id="LOCAL-00001" summary="上班咯！🙃">
       <created>1554254101016</created>
@@ -346,6 +346,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -445,11 +446,11 @@
     </state>
     <state width="1493" height="331" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1584091507737" />
     <state width="1291" height="221" key="GridCell.Tab.2.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758852" />
-    <state x="338" y="0" key="SettingsEditor" timestamp="1587892295829">
+    <state x="338" y="0" key="SettingsEditor" timestamp="1587947752638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584089404059" />
-    <state x="338" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587892295829" />
+    <state x="338" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587947752638" />
     <state x="450" y="0" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1584371731698" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584089678466">
       <screen x="0" y="0" width="1536" height="824" />

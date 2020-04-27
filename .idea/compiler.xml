@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="iCloud-ConfigClient" />
-        <module name="iCloud-Feign01" />
         <module name="iCloud-RibbonService" />
         <module name="iCloud-ConfigServer-Colony" />
         <module name="iCloud-Zuul" />
@@ -18,8 +17,6 @@
         <module name="iCloud-Nacos" />
         <module name="iCloud-Feign-Order" />
         <module name="iCloud-Feign01-Storage" />
-        <module name="iCloud-Feign" />
-        <module name="iCloud-ConfigClinet" />
         <module name="iCloud-EurekaClient" />
       </profile>
     </annotationProcessing>
@@ -28,14 +25,11 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="iCloud-ConfigClient" options="-parameters" />
       <module name="iCloud-ConfigClient-Colony" options="-parameters" />
-      <module name="iCloud-ConfigClinet" options="-parameters" />
       <module name="iCloud-ConfigServer" options="-parameters" />
       <module name="iCloud-ConfigServer-Colony" options="-parameters" />
       <module name="iCloud-EurekaClient" options="-parameters" />
       <module name="iCloud-EurekaServer" options="-parameters" />
-      <module name="iCloud-Feign" options="-parameters" />
       <module name="iCloud-Feign-Order" options="-parameters" />
-      <module name="iCloud-Feign01" options="-parameters" />
       <module name="iCloud-Feign01-Storage" options="-parameters" />
       <module name="iCloud-Feign02-Account" options="-parameters" />
       <module name="iCloud-Nacos" options="-parameters" />
