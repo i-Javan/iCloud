@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c717bba-b960-4daf-b8f2-18c295c14014" name="Default Changelist" comment="">
+    <list default="true" id="4c717bba-b960-4daf-b8f2-18c295c14014" name="Default Changelist" comment="issue #1222 修改项目名称">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iCloud-Nacos/src/main/java/com/iCloud/NacosServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/iCloud-Nacos/src/main/java/com/iCloud/NacosServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -279,7 +282,9 @@
       <workItem from="1584326268097" duration="813000" />
       <workItem from="1584352077856" duration="9631000" />
       <workItem from="1587889834123" duration="1831000" />
-      <workItem from="1587947527259" duration="222000" />
+      <workItem from="1587947527259" duration="1594000" />
+      <workItem from="1587972977295" duration="194000" />
+      <workItem from="1587973182444" duration="1748000" />
     </task>
     <task id="LOCAL-00001" summary="上班咯！🙃">
       <created>1554254101016</created>
@@ -330,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584089552038</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="issue #1222 修改项目名称">
+      <created>1587947807823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587947807823</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,9 +370,18 @@
     <MESSAGE value="add by javan 提交配置文件测试使用 20190444" />
     <MESSAGE value="add by javan 提交Config纳入Eureka管理 20190444" />
     <MESSAGE value="add by javan 提交Config纳入Eureka管理 20200313" />
-    <option name="LAST_COMMIT_MESSAGE" value="add by javan 提交Config纳入Eureka管理 20200313" />
+    <MESSAGE value="issue #1222 修改项目名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="issue #1222 修改项目名称" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="842" y="381" key="#Notifications" timestamp="1587973001203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="381" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1587973001203" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587973714461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587973714461" />
     <state x="1718" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1584370558634">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -446,16 +467,21 @@
     </state>
     <state width="1493" height="331" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1584091507737" />
     <state width="1291" height="221" key="GridCell.Tab.2.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584363758852" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1587974895164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1587974895164" />
     <state x="338" y="0" key="SettingsEditor" timestamp="1587947752638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584089404059" />
     <state x="338" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587947752638" />
     <state x="450" y="0" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1584371731698" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584089678466">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="451" y="184" key="Vcs.Push.Dialog.v2" timestamp="1587947869155">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584089678466" />
+    <state x="451" y="184" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587947869155" />
     <state x="1389" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1583981830174">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>

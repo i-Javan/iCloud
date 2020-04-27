@@ -2,22 +2,23 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="iCloud-ConfigClient" />
-        <module name="iCloud-RibbonService" />
-        <module name="iCloud-ConfigServer-Colony" />
-        <module name="iCloud-Zuul" />
-        <module name="iCloud-EurekaServer" />
-        <module name="iCloud-ConfigClient-Colony" />
-        <module name="iCloud-ConfigServer" />
         <module name="iCloud-Feign02-Account" />
-        <module name="iCloud-Nacos" />
-        <module name="iCloud-Feign-Order" />
+        <module name="iCloud-ConfigServer" />
+        <module name="iCloud-ConfigServer-Colony" />
+        <module name="iCloud-ConfigClient-Colony" />
         <module name="iCloud-Feign01-Storage" />
+        <module name="iCloud-Feign-Order" />
+        <module name="iCloud-Zuul" />
+        <module name="iCloud-RibbonService" />
+        <module name="iCloud-EurekaServer" />
+        <module name="iCloud-Nacos" />
         <module name="iCloud-EurekaClient" />
+        <module name="iCloud-ConfigClient" />
       </profile>
     </annotationProcessing>
   </component>
